@@ -1,0 +1,21 @@
+MallID,ProductID,Name,Category,Price,Quantity
+M01,P001,Samsung Galaxy S23,Electronics,149999,25
+M01,P002,Nike Air Max,Footwear,18500,50
+M01,P003,Levi's Jeans,Clothing,8900,100
+M01,P004,Harry Potter Book Set,Books,4500,30
+M02,P005,iPhone 14 Pro,Electronics,289999,15
+M02,P006,Adidas Ultraboost,Footwear,22000,40
+M02,P007,Zara Jacket,Clothing,12500,60
+M02,P008,Gaming Laptop,Electronics,175000,10
+M03,P009,Dining Table Set,Furniture,65000,8
+M03,P010,Office Chair,Furniture,18000,20
+M03,P011,LED TV 55 inch,Electronics,95000,12
+M03,P012,Refrigerator,Appliances,85000,5
+M04,P013,Sony Headphones,Electronics,12500,35
+M04,P014,Puma Sneakers,Footwear,9500,45
+M04,P015,Gul Ahmed Lawn,Clothing,5500,80
+M04,P016,Kitchen Blender,Appliances,7500,25
+M05,P017,Sofa Set 5 Seater,Furniture,125000,6
+M05,P018,Air Conditioner 1.5 Ton,Appliances,78000,8
+M05,P019,Smart Watch,Electronics,15500,40
+M05,P020,Winter Jacket,Clothing,9800,50

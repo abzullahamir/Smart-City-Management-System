@@ -1,0 +1,7 @@
+SchoolID,DepartmentName,ClassName,ClassID
+S01,Computer Science,CS-101,0
+S01,Computer Science,CS-201,1
+S02,Electrical Engineering,EE-101,0
+S03,Mechanical Engineering,ME-101,0
+S04,Business Administration,BBA-1,0
+S05,Data Science,DS-101,0

@@ -1,0 +1,11 @@
+FacilityID,Name,Type,Sector,Coordinates
+F01,F-10 Central Mosque,MOSQUE,F-10,"33.691, 73.019"
+F02,G-10 Jamia Mosque,MOSQUE,G-10,"33.684, 73.025"
+F03,Blue Area Mosque,MOSQUE,Blue Area,"33.720, 73.065"
+F04,F-8 Family Park,PARK,F-8,"33.709, 73.037"
+F05,G-9 Community Park,PARK,G-9,"33.700, 73.030"
+F06,Fatima Jinnah Park,PARK,F-9,"33.719, 73.100"
+F07,G-10 Water Cooler,WATER_COOLER,G-10,"33.685, 73.026"
+F08,F-8 Water Cooler,WATER_COOLER,F-8,"33.710, 73.038"
+F09,F-6 Water Cooler,WATER_COOLER,F-6,"33.727, 73.075"
+F10,Centaurus Water Cooler,WATER_COOLER,Blue Area,"33.708, 73.041"

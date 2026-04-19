@@ -1,0 +1,6 @@
+HospitalID,Name,Sector,EmergencyBeds,Specialization,Coordinates
+H01,PIMS,G-8,12,"General, Cardiology","33.706, 73.055"
+H02,Shifa International,H-8,20,"Oncology, Surgery","33.605, 73.086"
+H03,Maroof Hospital,F-10,8,Orthopedics,"33.689, 73.015"
+H04,Poly Clinic,G-6,14,General,"33.720, 73.075"
+H05,Islamabad Medical,I-8,10,Pediatrics,"33.680, 73.066"

@@ -1,0 +1,6 @@
+PharmacyID,Name,Sector,MedicineName,Formula,Price,Coordinates
+P01,Sehat Pharmacy,F-8,Panadol,Paracetamol,50,"33.710, 73.038"
+P02,D-Well Pharma,G-10,Augmentin,Co-Amoxiclav,320,"33.685, 73.026"
+P03,Medix Pharmacy,F-6,Brufen,Ibuprofen,120,"33.728, 73.076"
+P04,CurePlus Pharmacy,I-8,Zyrtec,Cetirizine,90,"33.809, 73.091"
+P05,HealthOne,Blue Area,Disprin,Aspirin,30,"33.721, 73.065"

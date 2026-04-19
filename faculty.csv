@@ -1,0 +1,9 @@
+SchoolID,DepartmentName,ProfessorName,ProfessorID
+S01,Computer Science,Dr. Ahmed Khan,0
+S01,Computer Science,Dr. Sara Malik,1
+S01,Mathematics,Dr. Hina Javed,0
+S02,Electrical Engineering,Dr. Hamza Raza,0
+S02,Electrical Engineering,Dr. Imran Latif,1
+S03,Mechanical Engineering,Dr. Farooq Siddiqui,0
+S04,Business Administration,Dr. Kamran Iqbal,0
+S05,Data Science,Dr. Safia Rehman,0
