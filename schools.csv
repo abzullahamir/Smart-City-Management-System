@@ -1,0 +1,6 @@
+SchoolID,Name,Sector,Rating,Subjects,Coordinates
+S01,City School,G-10,4.5,"Math, Physics, English","33.686, 73.028"
+S02,Allied School,F-8,4,"CS, Math, Urdu","33.709, 73.037"
+S03,Beaconhouse,F-6,4.7,"Bio, Chem, English","33.727, 73.075"
+S04,Iqra Academy,G-9,4.2,"Islamiat, Arabic","33.702, 73.032"
+S05,Roots Millennium,F-7,4.8,"AI, Robotics, Math","33.715, 73.056"

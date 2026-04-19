@@ -1,0 +1,9 @@
+SchoolID,DepartmentName,ClassName,StudentName,StudentID
+S01,Computer Science,CS-101,Ali Hassan,0
+S01,Computer Science,CS-101,Ayesha Khan,1
+S01,Computer Science,CS-201,Bilal Ahmed,0
+S02,Electrical Engineering,EE-101,Imran Ali,0
+S02,Electrical Engineering,EE-101,Maryam Javed,1
+S03,Mechanical Engineering,ME-101,Hassan Raza,0
+S04,Business Administration,BBA-1,Zoya Ahmed,0
+S05,Data Science,DS-101,Hashir Ali,0
